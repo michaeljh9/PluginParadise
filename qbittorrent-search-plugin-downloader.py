@@ -62,7 +62,7 @@ def download_py_files(github_url, output_folder=None):
             print(f"Failed to download {file_name} (status code {file_response.status_code}).")
     
     # Print completion message
-    print(f"\nFiles have been downloaded to {output_folder}\nDo not copy-paste into the qBittorrent's .local folder. Instead, use qBittorrent to import them.\n")
+    print(f"\nFiles have been downloaded to {output_folder}\nFrom inside of qBittorrent, use the 'Search Plugins...' button to import them. Do not copy-paste into the qBittorrent's .local subfolder. Use qBittorrent to import them.\n")
 
 if __name__ == "__main__":
     # Example usage:
