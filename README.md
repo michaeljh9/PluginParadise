@@ -24,6 +24,7 @@ When it's all done, it tells you where they are with steps on how to import them
 ![04](https://github.com/user-attachments/assets/fa5736b3-5f9e-49d3-b7d6-b91ae9c0a95c)
 
 First, have the search tab enabled:
+
 ![01](https://github.com/user-attachments/assets/7c89e2f5-a039-4ad1-a24d-d6ab3d1ea14e)
 
 Click on the 'Search Plugins...' buttin in the lower-right corner:
