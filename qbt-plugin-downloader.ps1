@@ -1,5 +1,5 @@
 # PowerShell script to download qBittorrent search plugins
-# Usage: irm [YOUR_GITHUB_RAW_URL] | iex
+# Usage: irm https://raw.githubusercontent.com/michaeljh9/PluginParadise/main/qbt-plugin-downloader.ps1 | iex
 
 function Download-QBTPlugins {
     param (
