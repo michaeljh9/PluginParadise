@@ -42,7 +42,7 @@ You'll get an error if any plugins are unsupported. In my example, this is the o
 
 ![06](https://github.com/user-attachments/assets/38829b25-cdcc-4f32-9591-182cfca516af)
 
-You now have an all-in-one, one-stop-shop place to search the internet for your Linux ISOs! Enjoy!
+Success! You now have an all-in-one, one-stop-shop place to search the internet for your Linux ISOs! Enjoy!
 
 ![07](https://github.com/user-attachments/assets/7a71d8c7-2ee7-4372-8c3b-c15770981643)
 
