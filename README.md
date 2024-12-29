@@ -10,10 +10,15 @@ How awesome would it be to automate this process?
 
 I made a script that automates the download of the public ones.
 
-Run this command:
+On Linux, it's a Python script. Run this command:
 
 ```
 git clone https://github.com/michaeljh9/PluginParadise.git && cd PluginParadise && python qbittorrent-search-plugin-downloader.py
+```
+On Windows, it's a Powershell script. Run this command:
+
+```
+irm https://raw.githubusercontent.com/michaeljh9/PluginParadise/main/qbt-plugin-downloader.ps1 | iex
 ```
 It creates a folder located at ~/Desktop titled 'engines' and downloads the search plugins:
 
