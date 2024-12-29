@@ -1,5 +1,5 @@
 # PluginParadise
-By default, qBittorrent does not come with any search plugins installed. Users are encouraged to visit the qbittorrent/search-plugins repository to choose and download the plugins they need:
+By default, qBittorrent does not come with any search plugins installed. Users are encouraged to visit the qbittorrent/search-plugins repository to choose and download the plugins they desire:
 
 ![02](https://github.com/user-attachments/assets/6a8103c1-3b21-44ac-9d61-d2cbb79337d8)
 
