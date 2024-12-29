@@ -13,7 +13,7 @@ I made a script that automates the download of the public ones.
 On Linux, it's a Python script. Run this command:
 
 ```
-git clone https://github.com/michaeljh9/PluginParadise.git && cd PluginParadise && python qbittorrent-search-plugin-downloader.py
+curl -O https://raw.githubusercontent.com/michaeljh9/PluginParadise/main/qbittorrent-search-plugin-downloader.py && python qbittorrent-search-plugin-downloader.py
 ```
 On Windows, it's a Powershell script. Run this command:
 
