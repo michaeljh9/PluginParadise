@@ -38,7 +38,7 @@ Click on the 'Search Plugins...' button in the lower-right corner:
 
 The 'Search plugins' window appears. Click on the 'Install a new one' button. Click on the 'Local file' button. Navigate to the folder where the script downloaded all of the plugins. Type ctrl + a to select all to get all of them. Click the Open button. Wait half a minute while qBittorrent makes it happen.
 
-You'll get an error if any plugins are unsupported. In my example, this is the only one that wasn't happy and because it's a search site I don't regularly use, I'll live another day.
+You'll potentially get an error if any plugins are unsupported. In my demonstration, this is the only one that wasn't happy and because it's a search site I don't regularly use, I'll live another day.
 
 ![06](https://github.com/user-attachments/assets/38829b25-cdcc-4f32-9591-182cfca516af)
 
