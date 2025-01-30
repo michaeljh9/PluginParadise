@@ -10,7 +10,7 @@ How awesome would it be to automate this process?
 
 I made a script that automates the download of the public ones.
 
-On Linux, it's a Python script. Run this command:
+On Linux, it's a Python script. As a pre-requisite, install **python3-bs4** prior. After, run this command:
 
 ```
 curl -O https://raw.githubusercontent.com/michaeljh9/PluginParadise/main/qbittorrent-search-plugin-downloader.py && python qbittorrent-search-plugin-downloader.py
